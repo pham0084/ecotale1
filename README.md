@@ -1,6 +1,6 @@
 ### Ecotales.ai
 
-**YoloV8, GPT4.0,DallE, NextJS**
+***YoloV8, GPT4.0,DallE, NextJS***
 
 
 
