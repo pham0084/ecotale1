@@ -1,4 +1,6 @@
-# Ecotales YOLOv8 Tech Stack
+### Ecotales.ai
+
+**YoloV8, GPT4.0,DallE, NextJS**
 
 
 
