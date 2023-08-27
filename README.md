@@ -2,7 +2,7 @@
 
 ***YoloV8, GPT4.0, DallE, NextJS***
 
-
+![Project Logo](ttps://drive.google.com/file/d/1yspRnyql0bQn_oj1niLTq3lw_HElhRNc/view?usp=sharing)
 
 Welcome to the Ecotales YOLOv8 Tech Stack repository! This project showcases the seamless integration of technologies like TypeScript (TSX), Tailwind CSS, and OpenAI's YOLOv8 in a Next.js application deployed on Vercel. With this repository, you'll be able to kickstart your journey into building intelligent image analysis applications within an eco-friendly narrative.
 
