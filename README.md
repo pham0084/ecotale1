@@ -1,6 +1,6 @@
 # Ecotales YOLOv8 Tech Stack
 
-![Ecotales Logo](/path/to/logo.png)
+
 
 Welcome to the Ecotales YOLOv8 Tech Stack repository! This project showcases the seamless integration of technologies like TypeScript (TSX), Tailwind CSS, and OpenAI's YOLOv8 in a Next.js application deployed on Vercel. With this repository, you'll be able to kickstart your journey into building intelligent image analysis applications within an eco-friendly narrative.
 
@@ -77,7 +77,7 @@ To get started with Ecotales YOLOv8 Tech Stack, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ecotale1.git
+git clone https://github.com/pham0084/ecotale1.git
 cd ecotale1
 ```
 
